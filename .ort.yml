@@ -11,4 +11,4 @@ analyzer:
         # Ignore devDependencies
         ignore_dev_dependencies: true
 #   Maven:
-#      options:
+#     options:
