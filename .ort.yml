@@ -1,0 +1,14 @@
+analyzer:
+  skip_excluded: false
+  enabled_package_managers:
+    - Maven
+    - Npm
+  package_managers:
+    Npm:
+      options:
+        # Option to only analyze direct dependencies
+        ignore_transitive_dependencies: true
+        # Ignore devDependencies
+        ignore_dev_dependencies: true
+#   Maven:
+#      options:
