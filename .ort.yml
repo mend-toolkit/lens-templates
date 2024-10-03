@@ -10,5 +10,5 @@ analyzer:
         ignore_transitive_dependencies: true
         # Ignore devDependencies
         ignore_dev_dependencies: true
-#   Maven: 
+#   Maven:
 #     options:
