@@ -5,7 +5,7 @@
 	<groupId>io.mend.lens</groupId>
 	<artifactId>lens-maven</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>lens-maven-{{package}}</name>
+	<name>lens-{{package}}</name>
 	<description>Lens DeepScan template project for Maven</description>
 	<properties>
 		<java.version>21</java.version>
