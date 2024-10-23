@@ -26,7 +26,7 @@ ort:
     allowDynamicVersions: true
 
     # A list of enabled package managers.
-    enabledPackageManagers: [Maven]
+    enabledPackageManagers: [Maven, Npm]
 
     # A list of disabled package managers. Disabling a package manager here overrides enabling it in
     # `enabledPackageManagers`.
