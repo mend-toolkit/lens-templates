@@ -19,6 +19,11 @@
 	</dependencies>
 	<repositories>
 		<repository>
+			<id>imagej</id>
+			<name>ImageJ Public</name>
+			<url>https://maven.imagej.net/content/repositories/public/</url>
+		</repository>
+		<repository>
 			<id>icm</id>
 			<name>ICM Repository</name>
 			<url>https://maven.icm.edu.pl/artifactory/repo/</url>
