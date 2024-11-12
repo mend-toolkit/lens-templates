@@ -19,6 +19,11 @@
 	</dependencies>
 	<repositories>
 		<repository>
+			<id>central</id>
+			<name>Maven Central</name>
+			<url>https://repo1.maven.org/maven2</url>
+		</repository>
+		<repository>
 			<id>imagej</id>
 			<name>ImageJ Public</name>
 			<url>https://maven.imagej.net/content/repositories/public/</url>
