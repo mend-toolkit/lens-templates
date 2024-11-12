@@ -17,4 +17,11 @@
 			<version>{{version}}</version>
 		</dependency>
 	</dependencies>
+	<repositories>
+		<repository>
+			<id>icm</id>
+			<name>ICM Repository</name>
+			<url>https://maven.icm.edu.pl/artifactory/repo/</url>
+		</repository>
+	</repositories>
 </project>
