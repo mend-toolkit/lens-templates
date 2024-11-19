@@ -48,7 +48,7 @@
 			<name>ImageJ Public</name>
 			<url>https://maven.imagej.net/content/repositories/public/</url>
 		</repository>
-		<!-- request authentication 
+		<!-- requires authentication 
 		<repository>
 			<id>icm</id>
 			<name>ICM Repository</name>
