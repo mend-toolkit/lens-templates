@@ -24,14 +24,36 @@
 			<url>https://repo1.maven.org/maven2</url>
 		</repository>
 		<repository>
+			<id>google</id>
+			<name>Google Android</name>
+			<url>https://maven.google.com</url>
+		</repository>
+		<repository>
+			<id>jboss</id>
+			<name>JBoss</name>
+			<url>https://repository.jboss.org/nexus/content/repositories/releases/</url>
+		</repository>
+		<repository>
+			<id>atlassian</id>
+			<name>Atlassian</name>
+			<url>https://packages.atlassian.com/maven-public/</url>
+		</repository>
+		<repository>
+			<id>confluent</id>
+			<name>Confluent - Kafka</name>
+			<url>https://packages.confluent.io/maven/</url>
+		</repository>
+		<repository>
 			<id>imagej</id>
 			<name>ImageJ Public</name>
 			<url>https://maven.imagej.net/content/repositories/public/</url>
 		</repository>
+		<!-- request authentication 
 		<repository>
 			<id>icm</id>
 			<name>ICM Repository</name>
 			<url>https://maven.icm.edu.pl/artifactory/repo/</url>
 		</repository>
+		-->
 	</repositories>
 </project>
