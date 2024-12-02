@@ -1,5 +1,5 @@
 {
-  "name": "lens-npm-{{package}}",
+  "name": "lens-{{package}}",
   "version": "1.0.0",
   "description": "Lens template for scanning an npm module/package",
   "dependencies": {
