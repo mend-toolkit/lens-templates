@@ -5,10 +5,6 @@
   "dependencies": {
     "{{artifactId}}": "{{version}}"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mend-toolkit/lens-templates.git"
-  },
   "author": "Mend.io",
   "license": "Apache-2.0"
 }
